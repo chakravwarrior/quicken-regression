@@ -38,6 +38,12 @@ You can plan your budget, monitor bills, track expenses, and see your net worth 
 - Compatible with **Quicken Mobile App** and **Quicken Cloud**
 
 ---
+## Installation
+
+
+
+---
+
 
 ## 🖥️ System Requirements
 
