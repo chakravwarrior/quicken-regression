@@ -43,7 +43,10 @@ You can plan your budget, monitor bills, track expenses, and see your net worth 
 ---
 ## Installation
 
-
+1. **Download** the latest build from the release section.  
+   [![Download](https://img.shields.io/badge/Download-purple)](../../releases)  
+2. **Unpack** the archive to any folder on your PC.  
+3. **Run** the executable file
 
 ---
 
