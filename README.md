@@ -1,4 +1,4 @@
-# 💼 Quicken Deluxe – Personal Finance Software for Windows & Mac
+# 💼 Quicken Deluxe Free – Personal Finance Software for Windows & Mac
 
 **Quicken Deluxe** is a powerful and easy-to-use **personal finance management software** designed to help you **track spending**, **create budgets**, and **manage investments** — all in one place.
 
