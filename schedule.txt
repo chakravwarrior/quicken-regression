@@ -1,2 +1,3 @@
 # Quick Thoughts
 Remove premature optimization that introduced a bug
+Record retention schedule
